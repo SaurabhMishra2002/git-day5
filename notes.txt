@@ -1,1 +1,2 @@
 This is git first commit
+Today I learned git init and git commit
