@@ -2,3 +2,4 @@ This is git first commit
 Today I learned git init and git commit
 Learning new concept in Devops fundamental
 Learning Git branches
+Git helps teams collaborate.
