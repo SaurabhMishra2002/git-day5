@@ -1,1 +1,1 @@
-Deployment status: pending
+Deployment status: failed
